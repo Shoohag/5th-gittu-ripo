@@ -7,3 +7,7 @@ h3{
     display: inline-block;
     
 }
+p{
+    background-color: gray;
+    color: black;
+}
